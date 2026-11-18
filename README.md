@@ -100,6 +100,21 @@ After frames and the contact sheet exist, delete the raw video and keep the sour
 - `motion-library/references/breakdown-template.md` — the breakdown format
 - `motion-library/scripts/` — fetch, extract, and optional sound analysis
 
+## Companion skill: launch-storyboard
+
+`launch-storyboard/` is a second skill in this repo. It storyboards a product launch film the way a web designer builds a site:
+- the brief and target customer;
+- a hook (provocation, bold promise or story) and a retention arc;
+- Map, Cut, Colorize: the agent finds and downloads the product's real UI library online (brand and press kits, design-system or Storybook sites, GitHub, npm, official Figma Community files, or a live capture), logs every source and licence in `ui/UI-SOURCES.md`, and cuts it into bite-sized UI pieces;
+- 4–6 poster-grade 1920×1080 frames with a creative direction for pacing and transitions.
+
+Use it before `motion-library` section C on any product launch. Install it the same way as `motion-library`, linking `launch-storyboard` next to it:
+
+```bash
+ln -s "$PWD/launch-storyboard" ~/.claude/skills/launch-storyboard
+ln -s "$PWD/launch-storyboard" ~/.agents/skills/launch-storyboard
+```
+
 ## Licence
 
 MIT

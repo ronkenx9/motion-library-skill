@@ -36,6 +36,8 @@ Work from `references/principles.md` and `references/technique-families.md`. Sta
 
 ## C. Use it on a brief
 
+For a product launch film, board it first with the companion skill `launch-storyboard`: brief and target customer, hook, retention arc, the product's real UI library found and downloaded online, then 4–6 frames. Then run the steps below on that board.
+
 1. Name the use for each beat (hook, feature, explainer, social proof, end card).
 2. Pick one or two technique families per beat, read why they work, then run the invention prompts and remix operators until you have a move none of the references made.
 3. Storyboard each beat with timing, the visual, the motion move, on-screen text, and the sound cue. One idea per beat, one accent colour, a clear hero, a setup that pays off, and the 3–5 key actions that must land on a real sound.
